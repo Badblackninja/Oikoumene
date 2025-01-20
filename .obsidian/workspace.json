@@ -16,7 +16,9 @@
                 "file": "Rules/!Base Rules!.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "!Base Rules!"
             }
           },
           {
@@ -28,11 +30,69 @@
                 "file": "Rules/!Base Rules!.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "!Base Rules!"
+            }
+          },
+          {
+            "id": "b8b6a8d938c67e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Магия/Наномансия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Наномансия"
+            }
+          },
+          {
+            "id": "eed6bd8bc8d75d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Магия/Магия полей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Магия полей"
+            }
+          },
+          {
+            "id": "44f5bcc87632b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Базовые Правила.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые Правила"
+            }
+          },
+          {
+            "id": "52e7f0a5e4c7bdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Характеристики и Навыки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Характеристики и Навыки"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -52,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +129,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for !Base Rules!"
             }
           },
           {
@@ -118,7 +186,9 @@
                 "file": "Rules/!Base Rules!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from !Base Rules!"
             }
           },
           {
@@ -129,7 +199,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,7 +211,9 @@
               "type": "outline",
               "state": {
                 "file": "Rules/!Base Rules!.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of !Base Rules!"
             }
           },
           {
@@ -147,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -155,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +243,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13e16dcfe6d71f78",
+  "active": "52e7f0a5e4c7bdc2",
   "lastOpenFiles": [
     "Rules/!Base Rules!.md",
+    "Rules/Short Rules.md",
+    "Rules/Базовые Правила.md",
+    "Rules/Характеристики и Навыки.md",
+    "Rules/Таланты/Социальные Таланты.md",
+    "Rules/Таланты/Таланты Приключений.md",
+    "Rules/Таланты/Основные Таланты.md",
+    "Rules/Таланты/Магические Таланты.md",
+    "Rules/Таланты/Боевые Таланты.md",
+    "Rules/Магия/Алхимия.md",
+    "Setting/Боги Звездопада.md",
+    "Заметки.md",
+    "Rules/Архетипы/Archetypes & Talents.md",
+    "Rules/Магия/Магия полей.md",
+    "Rules/Снаряжение/Оружие.md",
+    "Rules/Снаряжение/Броня.md",
+    "Rules/Снаряжение/Снаряжение.md",
+    "Rules/Архетипы",
+    "Rules/Снаряжение/Ключевые термины.md",
+    "Setting/Фракции.md",
+    "Rules/Магия/Наномансия.md",
+    "Rules/Снаряжение",
+    "Rules/Магия/!Заметки (Магия)!.md",
+    "Rules/Магия/Психометаболизм.md",
+    "Rules/Магия",
+    "Rules/Таланты",
     "Rules/Combat",
     "Rules",
     "Setting"
